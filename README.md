@@ -54,10 +54,6 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 ### 8. [ELECTRON ](https://github.com/electron/electron) -
 
 Build cross-platform desktop apps with JavaScript, HTML, and CSS. Plenty Resource to learn and contribute. (official)
-      
-### 9. [Killed by Google](https://github.com/codyogden/killedbygoogle) -       
-
-A tribute and log of beloved products and services killed by Google. This is a fun open source project that encourages contributors for Hacktoberfest!
 
 ### 10. [issuehub.io](https://issuehub.io) -
 
